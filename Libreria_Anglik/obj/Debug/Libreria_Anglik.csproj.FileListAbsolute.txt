@@ -1,0 +1,155 @@
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\bin\Debug\Libreria_Anglik.exe.config
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\bin\Debug\Libreria_Anglik.exe
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\bin\Debug\Libreria_Anglik.pdb
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.csprojResolveAssemblyReference.cache
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Login.resources
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Properties.Resources.resources
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.csproj.GenerateResource.Cache
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.exe
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.pdb
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Registrar.resources
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Inicio.resources
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Proveedores.resources
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Inventario.resources
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Ventas.resources
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.MensajeOk.resources
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Mensaje_Si_No.resources
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Recuperar_clave.resources
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\bin\Debug\Libreria_Anglik.exe.config
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.exe
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.pdb
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\bin\Debug\Libreria_Anglik.exe
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\bin\Debug\Libreria_Anglik.pdb
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.csprojResolveAssemblyReference.cache
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Inicio.resources
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Inventario.resources
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Login.resources
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.MensajeOk.resources
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Mensaje_Si_No.resources
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Properties.Resources.resources
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Proveedores.resources
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Recuperar_clave.resources
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Registrar.resources
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Ventas.resources
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.csproj.GenerateResource.Cache
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Carga_Productos.resources
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Compra.resources
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Asistencia_Personal.resources
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Asistencia_Personal.resources
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Carga_Productos.resources
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Compra.resources
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Menu.resources
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Menu_Clientes.resources
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Menu_Proveedores.resources
+F:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Empledos.resources
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Empledos.resources
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Menu.resources
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Menu_Clientes.resources
+G:\fede pc\3er semestre\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Menu_Proveedores.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\bin\Debug\Libreria_Anglik.exe.config
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.exe
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.pdb
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Asistencia_Personal.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Carga_Productos.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Compra.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Empledos.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Inicio.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Inventario.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.MensajeOk.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Mensaje_Si_No.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Menu.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Menu_Clientes.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Menu_Proveedores.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Properties.Resources.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Proveedores.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Ventas.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.csproj.GenerateResource.Cache
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\bin\Debug\Libreria_Anglik.exe
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\bin\Debug\Libreria_Anglik.pdb
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Registrar.resources
+E:\Libreria_Anglik\Libreria_Anglik\bin\Debug\Libreria_Anglik.exe.config
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.exe
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.pdb
+E:\Libreria_Anglik\Libreria_Anglik\bin\Debug\Libreria_Anglik.exe
+E:\Libreria_Anglik\Libreria_Anglik\bin\Debug\Libreria_Anglik.pdb
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.csprojResolveAssemblyReference.cache
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Asistencia_Personal.resources
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Carga_Productos.resources
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Compra.resources
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Empledos.resources
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Inicio.resources
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Inventario.resources
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Login.Login.resources
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.MensajeOk.resources
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Mensaje_Si_No.resources
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Menu.resources
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Menu_Clientes.resources
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Menu_Proveedores.resources
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Properties.Resources.resources
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Proveedores.resources
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Ventas.resources
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Registrar.resources
+E:\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.csproj.GenerateResource.Cache
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Rep_clave.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Cargar_Cliente.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.IngresoRestingido.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Reportes_Compras.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Reportes_Empleados.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Reportes_Productos.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Reportes_Ventas.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Pagos.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Proveedor_Lista_ventas.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Proveedor_saldo.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Proveedor_Mensaje.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Mensajes.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Catalogo.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Clientes_Mensajes.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Clientes_Venta.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.csprojAssemblyReference.cache
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.csproj.CoreCompileInputs.cache
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\bin\Debug\BarcodeLib.dll
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.csproj.CopyComplete
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\bin\Debug\Libreria_Anglik.exe.config
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.exe
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.pdb
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\bin\Debug\Libreria_Anglik.exe
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\bin\Debug\Libreria_Anglik.pdb
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\bin\Debug\BarcodeLib.dll
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.csprojAssemblyReference.cache
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Asistencia_Personal.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Cargar_Cliente.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Carga_Productos.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Catalogo.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Clientes_Mensajes.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Clientes_Venta.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Compra.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Empledos.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.IngresoRestingido.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Inicio.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Inventario.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Login.Login.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.MensajeOk.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Mensajes.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Mensaje_Si_No.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Menu.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Menu_Clientes.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.ModificarCompra.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Pagos.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Menu_Proveedores.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Properties.Resources.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Proveedores.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Ventas.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Proveedor_Lista_ventas.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Proveedor_Mensaje.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Proveedor_saldo.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Registrar.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Reportes_Compras.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Reportes_Empleados.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Reportes_Productos.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Reportes_Ventas.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Rep_clave.resources
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.csproj.GenerateResource.cache
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.csproj.CoreCompileInputs.cache
+D:\Facultad\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.csproj.CopyComplete
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.ModificarCompra.resources
+C:\back\tp integrador\Libreria_Anglik\Libreria_Anglik\obj\Debug\Libreria_Anglik.Login1.Login1.resources
